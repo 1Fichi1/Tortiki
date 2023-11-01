@@ -1,0 +1,14 @@
+C:\Users\batyr\source\repos\Tortik_govorit_povaru\Tortik_govorit_povaru\bin\Debug\net7.0\Tortik_govorit_povaru.exe
+C:\Users\batyr\source\repos\Tortik_govorit_povaru\Tortik_govorit_povaru\bin\Debug\net7.0\Tortik_govorit_povaru.deps.json
+C:\Users\batyr\source\repos\Tortik_govorit_povaru\Tortik_govorit_povaru\bin\Debug\net7.0\Tortik_govorit_povaru.runtimeconfig.json
+C:\Users\batyr\source\repos\Tortik_govorit_povaru\Tortik_govorit_povaru\bin\Debug\net7.0\Tortik_govorit_povaru.dll
+C:\Users\batyr\source\repos\Tortik_govorit_povaru\Tortik_govorit_povaru\bin\Debug\net7.0\Tortik_govorit_povaru.pdb
+C:\Users\batyr\source\repos\Tortik_govorit_povaru\Tortik_govorit_povaru\obj\Debug\net7.0\Tortik_govorit_povaru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batyr\source\repos\Tortik_govorit_povaru\Tortik_govorit_povaru\obj\Debug\net7.0\Tortik_govorit_povaru.AssemblyInfoInputs.cache
+C:\Users\batyr\source\repos\Tortik_govorit_povaru\Tortik_govorit_povaru\obj\Debug\net7.0\Tortik_govorit_povaru.AssemblyInfo.cs
+C:\Users\batyr\source\repos\Tortik_govorit_povaru\Tortik_govorit_povaru\obj\Debug\net7.0\Tortik_govorit_povaru.csproj.CoreCompileInputs.cache
+C:\Users\batyr\source\repos\Tortik_govorit_povaru\Tortik_govorit_povaru\obj\Debug\net7.0\Tortik_govorit_povaru.dll
+C:\Users\batyr\source\repos\Tortik_govorit_povaru\Tortik_govorit_povaru\obj\Debug\net7.0\refint\Tortik_govorit_povaru.dll
+C:\Users\batyr\source\repos\Tortik_govorit_povaru\Tortik_govorit_povaru\obj\Debug\net7.0\Tortik_govorit_povaru.pdb
+C:\Users\batyr\source\repos\Tortik_govorit_povaru\Tortik_govorit_povaru\obj\Debug\net7.0\Tortik_govorit_povaru.genruntimeconfig.cache
+C:\Users\batyr\source\repos\Tortik_govorit_povaru\Tortik_govorit_povaru\obj\Debug\net7.0\ref\Tortik_govorit_povaru.dll
